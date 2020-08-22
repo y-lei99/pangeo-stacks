@@ -91,3 +91,13 @@ dependencies:
     - intake_geopandas
     - git+https://github.com/NCAR/intake-esm.git@master
     - git+https://github.com/hhuangwx/cmaps.git#egg=cmaps
+    - ansible
+    - futures
+    - requests
+    - promise
+    - Shapely
+    - fiona
+    - six
+    - lxml
+    - pyproj
+    - https://github.com/OpenGeoscience/KTile/archive/master.zip
